@@ -101,4 +101,4 @@ protocols:
  comment:
    provider: "disqus"
    disqus:
-     shortname: "eurekaproject"
+     shortname: "EurekaProject"
