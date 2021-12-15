@@ -99,6 +99,6 @@ protocols:
     os_src: "git@github.com:bencentra/centrarium.com.git"
 
  comment:
-        provider: "disqus"
-        disqus:
-                shortname: "eurekaproject"
+   provider: "disqus"
+   disqus:
+     shortname: "eurekaproject"
